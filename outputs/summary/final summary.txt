@@ -1,0 +1,63 @@
+================================================================================
+FINAL RESEARCH CONCLUSION & DATA SUMMARY MATRIX
+================================================================================
+Project Title: Teenage Mental Health Status and Physical Activity
+Student ID: 113370220
+Dataset Baseline: CDC YRBS 2007 (Post-Cleaning Sample Power: N = 13,657)
+
+--------------------------------------------------------------------------------
+1. CORE STATISTICAL EVIDENCE
+--------------------------------------------------------------------------------
+Through automated data parsing and filtering, the adolescent sample was 
+stratified into two strict cohorts based on their past 12-month mental health 
+indicators (SadOrHopeless):
+
+* Cohort A: "Not Sad" (Control Group Baseline)
+  - Sample Size (n): 9,566 students (70.04% of total sample)
+  - Physical Activity Mean Score: 4.17
+  - Standard Deviation (SD): 2.57
+
+* Cohort B: "Sad/Hopeless" (Clinical Distress Group)
+  - Sample Size (n): 4,091 students (29.96% of total sample)
+  - Physical Activity Mean Score: 3.74
+  - Standard Deviation (SD): 2.53
+
+* Variance Framework (One-Way ANOVA Test Matrix):
+  - F-Statistic: 78.4802
+  - p-Value: < 0.0001 (Highly Significant)
+
+--------------------------------------------------------------------------------
+2. INTERPRETATION & BEHAVIORAL DISPERSION
+--------------------------------------------------------------------------------
+The empirical findings deliver a clear, mathematically undeniable conclusion: 
+there is a highly significant negative correlation between emotional distress 
+and physical exercise frequency among teenagers. 
+
+1. Distribution Shift (Boxplot Analysis): 
+   The stacked horizontal boxplot analysis clearly indicates that the entire 
+   distribution shape of the "Sad/Hopeless" group undergoes a leftward shift toward 
+   lower activity ranges. Both the mathematical Mean (3.74) and Median (4.00) 
+   of the distressed group sit noticeably below the healthy control baseline.
+
+2. Dispersion Uniformity: 
+   Interestingly, the standard deviations of both groups remain nearly identical 
+   (2.57 vs 2.53). This implies that emotional distress acts as a uniform 
+   downward anchor on exercise behavior across the entire population, rather 
+   than merely affecting a few extreme outliers.
+
+--------------------------------------------------------------------------------
+3. ACADEMIC & POLICY IMPLICATIONS
+--------------------------------------------------------------------------------
+The extreme significance of the p-value (p < 0.0001) proves that the 0.43 drop 
+in the physical activity score is not a byproduct of random sampling noise. 
+Instead, it highlights a critical behavioral symptom: teenagers experiencing 
+prolonged sadness or hopelessness face severe motivational or systemic barriers 
+that inhibit regular physical exercise (at least 60 minutes per day).
+
+Conclusion for Presentation Video:
+When interpreting these results alongside the generated Visual Analytics plots 
+(Bar, Lollipop, and Boxplots), it is manifest that clinical screening for 
+adolescent mental health must incorporate proactive behavioral interventions, 
+specifically targeted at restoring physical activity routines to mitigate 
+further psychological decline.
+================================================================================
