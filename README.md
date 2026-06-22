@@ -1,5 +1,5 @@
 ## Student Information
-- **游子涵YOU-ZIH-HAN**
+- **游子涵**
 - **Student ID**: 113370220
 
 ## Project Repository
